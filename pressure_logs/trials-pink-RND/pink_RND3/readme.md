@@ -1,1 +1,1 @@
-RND3 data were overwritten by RND2 data due to a flaw. See pressure input profile.
+RND3 data were overwritten by RND2 data due to human error. See pressure input profile. Valve errors can be adequetly characterized by RND1 data.

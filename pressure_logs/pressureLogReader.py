@@ -13,10 +13,9 @@ time1 = np.array(time2)
 time = np.ndarray.flatten(time1).astype(np.float)
 time = time/1000
 
-A = np.array(pressurelog[1]).astype(np.float)/0.85
-
-B = np.array(pressurelog[2]).astype(np.float)/0.85
-C = np.array(pressurelog[3]).astype(np.float)/0.85
+A = np.array(pressurelog[1]).astype(np.float)
+B = np.array(pressurelog[2]).astype(np.float)
+C = np.array(pressurelog[3]).astype(np.float)
 hw = pressurelog[4]
 regulatorA=[]
 regulatorB=[]
