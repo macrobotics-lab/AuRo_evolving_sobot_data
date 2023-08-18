@@ -9,7 +9,7 @@
 - `TB` refers to the *surface* table
 
 ## Pressure logs info
-- `pressure_logs` folder stores all the pressure profiles recorded from sim-to-real transfer experiments. Logs involve pressure recorded from built-in sensors of the pressure regulator (Enfieldtech TR Electronic Pressure Regulator), a upstream honeywell sensor(Honeywell SSCMANV030PA2A3), and commanded pressure input. 
+- `pressure_logs` folder stores all the pressure profiles recorded from sim-to-real transfer experiments. Logs involve pressure recorded from built-in sensors of the pressure regulator (Enfield TR-010-gs), a upstream honeywell sensor(Honeywell SSCMANV030PA2A3), and commanded pressure input. 
 
 - The logs decoder are included in the folder for analysis.
 
